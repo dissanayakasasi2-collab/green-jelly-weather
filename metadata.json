@@ -1,0 +1,6 @@
+{
+  "name": "Green Jelly",
+  "description": "An interactive voice-activated weather assistant featuring Green Jelly, supporting Sinhala and English natural language queries with real-time Open-Meteo forecasts.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
